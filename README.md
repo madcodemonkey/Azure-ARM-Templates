@@ -5,3 +5,4 @@
 
 
 - [Example of deploying a web site](https://github.com/Azure-Samples/azure-event-grid-viewer)
+- [Example of deploy a service bus](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/servicebus/Microsoft.Azure.ServiceBus#running-tests)
